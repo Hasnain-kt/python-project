@@ -1,0 +1,6 @@
+Python: 3
+is: 2
+easy: 1
+powerful: 1
+I: 1
+love: 1
