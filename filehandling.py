@@ -17,3 +17,8 @@ with open("report.txt", "w") as f:
         f.write(word + ": " + str(word_count[word]) + "\n")
 
 print("Report created successfully")
+
+
+
+
+# hello this is my second commit
